@@ -425,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 5KDNFJH4Y4;
 				INFOPLIST_FILE = Porus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -437,6 +438,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 5KDNFJH4Y4;
 				INFOPLIST_FILE = Porus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -514,6 +516,7 @@
 				D0E600C81DE9626900ADBEC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0E600C91DE9626900ADBEC3 /* Build configuration list for PBXNativeTarget "PorusTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +525,7 @@
 				D0E600CB1DE9626900ADBEC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D0E600CC1DE9626900ADBEC3 /* Build configuration list for PBXNativeTarget "PorusUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +534,7 @@
 				D0E600CE1DE9626900ADBEC3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
