@@ -36,7 +36,9 @@ open Porus.xcworkspace
 5. If you have your iPhone connected, select your iPhone in `Build Target` and build (⌘ + B) the project. Please `unlock` your iPhone and choose `Allow` if you see any warnings.
 
 ## Layout
-There are four views on the main screen of Porus. This section introduces the layout and functions of the views.
+There are four views on the main screen of Porus. This section introduces the layout and functions of the views. The following image is a screenshot of the homepage of Porus.
+
+![image](https://github.com/jerryljq/Porus/blob/master/homepage.PNG)
 
 1. `V1`
 
