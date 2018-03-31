@@ -41,12 +41,15 @@ There are four views on the main screen of Porus. This section introduces the la
 1. `V1`
 
 `V1` shows what you can see through the camera. There is also a label showing your IP address and  port number of the server. You can tap it to edit.
+
 2. `V2`
 
 `V2` shows the most recently captured image from the camera. You can tap the `Capture` button to capture a image.
+
 3. `P1`
 
 `P1` shows some actions you can do. `Predict` button starts automatic prediction while `Pause` button stops it temporarily. `Connection` button can help you test the connection to the server.
+
 4. `P2`
 
 `P2` shows the messages from the server. It also displays the errors and other types of logs.
